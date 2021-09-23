@@ -11,17 +11,17 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👯 I’m looking to collaborate on **Android Development**
+- 👯 I’m looking to collaborate on **Android Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuraliKrishnaSundara?tab=repositories](https://github.com/MuraliKrishnaSundara?tab=repositories)
+- 👨‍💻 All of my projects are available at [MuraliKrishnaSundara](https://github.com/MuraliKrishnaSundara?tab=repositories)
 
-- 📝 I regularly write articles on [https://hashnode.com/@muralikrishnasundara](https://hashnode.com/@muralikrishnasundara)
+- 📝 I regularly write articles on [@muralikrishnasundara](https://hashnode.com/@muralikrishnasundara)
 
 - 💬 Ask me about **Java, Android and Kotlin**
 
 - 📫 How to reach me **murali.sundara@ssipmt.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uZGqKYTqYfzphti4-JY903RjGVfCySM9/view?usp=sharing](https://drive.google.com/file/d/1uZGqKYTqYfzphti4-JY903RjGVfCySM9/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1uZGqKYTqYfzphti4-JY903RjGVfCySM9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
