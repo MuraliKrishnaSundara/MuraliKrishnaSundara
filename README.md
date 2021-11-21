@@ -13,6 +13,8 @@
 
 - 👯 I’m looking to collaborate on **Android Project**
 
+- 👉 Check my Portfolio [Portfolio](https://muralikrishnasundra.dorik.io/)
+
 - 👨‍💻 All of my projects are available at [MuraliKrishnaSundara](https://github.com/MuraliKrishnaSundara?tab=repositories)
 
 - 📝 I regularly write articles on [@muralikrishnasundara](https://hashnode.com/@muralikrishnasundara)
@@ -21,7 +23,7 @@
 
 - 📫 How to reach me **murali.sundara@ssipmt.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/18HN1-Z6s8Y65hNKyAl2qGeUYDm--TBBi/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1I6XLmM4RcjO7POo8vi9L6mQ7QVVxxh3b/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
