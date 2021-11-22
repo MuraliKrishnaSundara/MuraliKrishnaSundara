@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sundara_murali" target="blank"><img src="https://img.shields.io/twitter/follow/sundara_murali?logo=twitter&style=for-the-badge" alt="sundara_murali" /></a> </p>
 
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p>
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a></p>
 
 - 🔭 I’m currently working on [Notify](https://github.com/Kingbond470/Notify)
 
