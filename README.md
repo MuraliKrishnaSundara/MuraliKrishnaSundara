@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [MuraliKrishnaSundara](https://github.com/MuraliKrishnaSundara?tab=repositories)
 
-- 📝 I regularly write articles on [@muralikrishnasundara](https://hashnode.com/@muralikrishnasundara)
-
 - 💬 Ask me about **Java, Android and Kotlin**
 
 - 📫 How to reach me **murali.sundara@ssipmt.com**
