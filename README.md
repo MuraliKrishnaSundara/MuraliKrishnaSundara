@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **murali.sundara@ssipmt.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I6XLmM4RcjO7POo8vi9L6mQ7QVVxxh3b/view) [Dowload](https://drive.google.com/u/0/uc?id=1I6XLmM4RcjO7POo8vi9L6mQ7QVVxxh3b&export=download)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I6XLmM4RcjO7POo8vi9L6mQ7QVVxxh3b/view) [[Dowload]](https://drive.google.com/u/0/uc?id=1I6XLmM4RcjO7POo8vi9L6mQ7QVVxxh3b&export=download)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
