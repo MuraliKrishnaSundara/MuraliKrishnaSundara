@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Java, Android and Kotlin**
 
-- 📫 How to reach me **murali.sundara@ssipmt.com**
+- 📫 How to reach me **developermuralikrishna@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I6XLmM4RcjO7POo8vi9L6mQ7QVVxxh3b/view) [[Dowload]](https://drive.google.com/u/0/uc?id=1I6XLmM4RcjO7POo8vi9L6mQ7QVVxxh3b&export=download)
 
