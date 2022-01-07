@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sundara_murali" target="blank"><img src="https://img.shields.io/twitter/follow/sundara_murali?logo=twitter&style=for-the-badge" alt="sundara_murali" /></a> </p>
 
-- 🔭 I’m currently working on [Task Manager](https://github.com/MuraliKrishnaSundara/FRND_Assignment_Task_Manager/tree/main/TaskManager), [Masai Assignments](https://github.com/masai-course/murali_fa3_085)
-
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently working as **Android Developer at IPAC**
 
 - 👯 I’m looking to collaborate on **Android Project**
 
