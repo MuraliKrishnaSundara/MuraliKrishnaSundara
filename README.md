@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **developermuralikrishna@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I6XLmM4RcjO7POo8vi9L6mQ7QVVxxh3b/view) [[Dowload]](https://drive.google.com/u/0/uc?id=1I6XLmM4RcjO7POo8vi9L6mQ7QVVxxh3b&export=download)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zsrAPwKlLHTtcRV_iF5sdaHL_n3dEshr/view) [[Dowload]](https://drive.google.com/u/1/uc?id=1zsrAPwKlLHTtcRV_iF5sdaHL_n3dEshr&export=download)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
